@@ -1,0 +1,19 @@
+{
+    "name": "file-manager",
+    "version": "1.0.0",
+    "description": "Solution for https://github.com/AlreadyBored/nodejs-assignments/blob/main/assignments/file-manager/assignment.md",
+    "type": "module",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/Elianta/FileManager.git"
+    },
+    "author": "Elianta",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Elianta/FileManager/issues"
+    },
+    "homepage": "https://github.com/Elianta/FileManager#readme"
+}
